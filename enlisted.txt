@@ -1,1 +1,10 @@
-*-enlisted-gcore.cdn.gaijin.net
+01-enlisted-gcore.cdn.gaijin.net
+02-enlisted-gcore.cdn.gaijin.net
+03-enlisted-gcore.cdn.gaijin.net
+04-enlisted-gcore.cdn.gaijin.net
+05-enlisted-gcore.cdn.gaijin.net
+06-enlisted-gcore.cdn.gaijin.net
+07-enlisted-gcore.cdn.gaijin.net
+08-enlisted-gcore.cdn.gaijin.net
+09-enlisted-gcore.cdn.gaijin.net
+10-enlisted-gcore.cdn.gaijin.net
